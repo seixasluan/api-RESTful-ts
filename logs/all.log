@@ -1,0 +1,124 @@
+2024-03-12 09:39:21:3921 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 09:39:21:3921 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 09:46:00:460 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 09:46:00:460 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 09:47:18:4718 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 09:47:18:4718 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 09:47:47:4747 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 09:47:47:4747 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 09:47:53:4753 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 09:47:53:4753 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 09:48:21:4821 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 09:48:21:4821 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 09:48:49:4849 - [35mhttp[39m: [35mGET /api/test 200 - - 2.044 ms[39m
+[35m[39m
+2024-03-12 09:58:00:580 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 09:58:00:580 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 09:58:39:5839 - [35mhttp[39m: [35mPOST /api/movie 200 - - 2.045 ms[39m
+[35m[39m
+2024-03-12 10:01:31:131 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:01:31:131 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:03:14:314 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:03:14:314 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:03:47:347 - [35mhttp[39m: [35mPOST /api/movie 201 - - 42.867 ms[39m
+[35m[39m
+2024-03-12 10:14:20:1420 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:14:20:1420 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:15:25:1525 - [35mhttp[39m: [35mPOST /api/movie 201 - - 45.873 ms[39m
+[35m[39m
+2024-03-12 10:29:12:2912 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:29:12:2912 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:30:52:3052 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:30:52:3052 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:31:28:3128 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:31:28:3128 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:31:41:3141 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:31:41:3141 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:33:07:337 - [35mhttp[39m: [35mGET /api/movie/65f052b309a96fd194bfaf3b - - - - ms[39m
+[35m[39m
+2024-03-12 10:33:08:338 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "65f052b309a96fd194bfaf3" (type string) at path "_id" for model "Movie"[39m
+2024-03-12 10:33:11:3311 - [35mhttp[39m: [35mGET /api/movie/65f052b309a96fd194bfaf3 - - - - ms[39m
+[35m[39m
+2024-03-12 10:33:12:3312 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "65f052b309a96fd194bfaf3" (type string) at path "_id" for model "Movie"[39m
+2024-03-12 10:33:14:3314 - [35mhttp[39m: [35mGET /api/movie/65f052b309a96fd194bfaf3 - - - - ms[39m
+[35m[39m
+2024-03-12 10:33:32:3332 - [35mhttp[39m: [35mGET /api/movie/65f052b309a96fd194bfaf3b - - - - ms[39m
+[35m[39m
+2024-03-12 10:34:08:348 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:34:08:348 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:34:14:3414 - [35mhttp[39m: [35mGET /api/movie/65f052b309a96fd194bfaf3b 200 - - 35.850 ms[39m
+[35m[39m
+2024-03-12 10:34:26:3426 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "12" (type string) at path "_id" for model "Movie"[39m
+2024-03-12 10:34:34:3434 - [35mhttp[39m: [35mGET /api/movie/12 - - - - ms[39m
+[35m[39m
+2024-03-12 10:35:26:3526 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:35:26:3526 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:35:30:3530 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "12" (type string) at path "_id" for model "Movie"[39m
+2024-03-12 10:35:47:3547 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:35:47:3547 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:35:53:3553 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:35:53:3553 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:36:27:3627 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:36:27:3627 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:37:02:372 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:37:02:372 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:37:38:3738 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:37:38:3738 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:37:45:3745 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:37:45:3745 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:37:47:3747 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "12" (type string) at path "_id" for model "Movie"[39m
+2024-03-12 10:37:47:3747 - [35mhttp[39m: [35mGET /api/movie/12 404 - - 6.721 ms[39m
+[35m[39m
+2024-03-12 10:37:56:3756 - [35mhttp[39m: [35mGET /api/movie/65f052b309a96fd194bfaf3b 200 - - 35.053 ms[39m
+[35m[39m
+2024-03-12 10:38:08:388 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:38:08:388 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:40:20:4020 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:40:20:4020 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:40:34:4034 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:40:34:4034 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:41:14:4114 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:41:14:4114 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:41:40:4140 - [35mhttp[39m: [35mGET /api/movie 200 - - 31.296 ms[39m
+[35m[39m
+2024-03-12 10:43:14:4314 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:43:14:4314 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:44:39:4439 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:44:39:4439 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:44:42:4442 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:44:42:4442 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:45:20:4520 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:45:20:4520 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:45:49:4549 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "12" (type string) at path "_id" for model "Movie"[39m
+2024-03-12 10:45:49:4549 - [35mhttp[39m: [35mDELETE /api/movie/12 500 - - 6.655 ms[39m
+[35m[39m
+2024-03-12 10:48:07:487 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:48:07:487 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:48:27:4827 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:48:27:4827 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:48:35:4835 - [31merror[39m: [31mErro no sistema: movie.delete is not a function[39m
+2024-03-12 10:48:35:4835 - [35mhttp[39m: [35mDELETE /api/movie/65f052b309a96fd194bfaf3b 500 - - 37.692 ms[39m
+[35m[39m
+2024-03-12 10:49:21:4921 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:49:21:4921 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:49:25:4925 - [35mhttp[39m: [35mDELETE /api/movie/65f052b309a96fd194bfaf3b 200 - - 78.406 ms[39m
+[35m[39m
+2024-03-12 10:50:46:5046 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:50:46:5046 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:51:00:510 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:51:00:510 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:51:18:5118 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:51:18:5118 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:51:56:5156 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "12" (type string) at path "_id" for model "Movie"[39m
+2024-03-12 10:51:56:5156 - [35mhttp[39m: [35mPATCH /api/movie/12 500 - - 7.348 ms[39m
+[35m[39m
+2024-03-12 10:53:11:5311 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:53:11:5311 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:53:40:5340 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:53:40:5340 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
+2024-03-12 10:56:36:5636 - [35mhttp[39m: [35mPATCH /api/movie/65f052b309a96fd194bfaf3b 200 - - 63.142 ms[39m
+[35m[39m
+2024-03-12 10:57:57:5757 - [35mhttp[39m: [35mPATCH /api/movie/65f0556d8066f99f815d4c10 200 - - 65.782 ms[39m
+[35m[39m
+2024-03-12 10:59:11:5911 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2024-03-12 10:59:11:5911 - [32minfo[39m: [32mAplicação está funcionando na porta: 3000[39m
