@@ -17,7 +17,6 @@ Esta API foi desenvolvida com o intuito de fornecer um exemplo de implementaçã
 - TypeScript
 - Node.js
 - Express.js
-- Jest (para testes)
 - Eslint (para linting)
 - Prettier (para formatação de código)
 
@@ -31,7 +30,6 @@ A estrutura do projeto é organizada da seguinte forma:
   - **`routes/`:** Definição das rotas da API.
   - **`services/`:** Lógica de negócio da aplicação.
   - **`utils/`:** Utilitários diversos.
-- **`test/`:** Contém os testes automatizados.
 - **`config/`:** Configurações da aplicação.
 
 ## Instalação
@@ -48,7 +46,7 @@ A estrutura do projeto é organizada da seguinte forma:
 
 ## Contribuindo
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema para relatar bugs ou propor novas funcionalidades. Se desejar contribuir com código, por favor, abra uma pull request.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema para relatar bugs ou propor novas funcionalidades. Se desejar contribuir com código, por favor, abra uma PR (pull request).
 
 ## Licença
 
@@ -56,4 +54,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-Esse README serve como um guia básico para entender o projeto e como utilizá-lo. Certifique-se de manter a documentação atualizada à medida que o projeto evolui.
+Esse README serve como um guia básico para entender o projeto e como utilizá-lo.
